@@ -4,6 +4,8 @@ import java.util.StringTokenizer;
 public class StringJoinerExemplo {
 
 	public static void main(String[] args) {
+
+		//StringTokenizer
 		String nomes = " João, Pedro, Maria, Ana, Paulo";
 
 		StringTokenizer st = new StringTokenizer(nomes, ",");
@@ -14,7 +16,8 @@ public class StringJoinerExemplo {
 
 		/****************************************************/
 
-		StringJoiner sj = new StringJoiner(", ");
+		//StringJoiner
+		StringJoiner sj = new StringJoiner(" - ");
 
 		sj.add("João");
 		sj.add("Pedro");
