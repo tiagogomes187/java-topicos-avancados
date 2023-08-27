@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exemplo01/Exemplo01.iml" filepath="$PROJECT_DIR$/Exemplo01/Exemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemplo02/Exemplo02.iml" filepath="$PROJECT_DIR$/Exemplo02/Exemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploThead/ExemploThead.iml" filepath="$PROJECT_DIR$/ExemploThead/ExemploThead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-topicos-avancados.iml" filepath="$PROJECT_DIR$/.idea/java-topicos-avancados.iml" />
+    </modules>
+  </component>
+</project>
