@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Base64/Base64.iml" filepath="$PROJECT_DIR$/Base64/Base64.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplo01/Exemplo01.iml" filepath="$PROJECT_DIR$/Exemplo01/Exemplo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplo02/Exemplo02.iml" filepath="$PROJECT_DIR$/Exemplo02/Exemplo02.iml" />
