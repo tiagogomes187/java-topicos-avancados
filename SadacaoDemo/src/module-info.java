@@ -1,0 +1,3 @@
+module SadacaoDemo {
+	requires ModuloSaudacao;
+}

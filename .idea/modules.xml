@@ -12,7 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelSorting/ParallelSorting.iml" filepath="$PROJECT_DIR$/ParallelSorting/ParallelSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectJigsaw/ProjectJigsaw.iml" filepath="$PROJECT_DIR$/ProjectJigsaw/ProjectJigsaw.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReflexaoExemplo/ReflexaoExemplo.iml" filepath="$PROJECT_DIR$/ReflexaoExemplo/ReflexaoExemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SadacaoDemo/SadacaoDemo.iml" filepath="$PROJECT_DIR$/SadacaoDemo/SadacaoDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringJoiner/StringJoiner.iml" filepath="$PROJECT_DIR$/StringJoiner/StringJoiner.iml" />
       <module fileurl="file://$PROJECT_DIR$/TypeInference/TypeInference.iml" filepath="$PROJECT_DIR$/TypeInference/TypeInference.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-topicos-avancados.iml" filepath="$PROJECT_DIR$/.idea/java-topicos-avancados.iml" />
