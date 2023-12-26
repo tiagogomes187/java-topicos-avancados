@@ -1,0 +1,6 @@
+Novas Características do Java 10
+
+ * Inferência de tipos em variáveis locais;
+ * Mudanças no Garbage-Collector;
+ * Versionamento com base no tempo;
+ * Alocação de memória alternativa.
