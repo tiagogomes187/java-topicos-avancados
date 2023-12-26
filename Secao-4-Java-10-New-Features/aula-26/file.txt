@@ -1,0 +1,9 @@
+Mudanças no Garbage-Collector
+Vídeo Aula conceitual.
+
+* Melhoria na performance G1;
+* Paralelismo em Full GC
+* Interface do GC.
+    -Melhor modularidade;
+    - Novo GC sem alterar o código base;
+    - Tornar mais fácil a manutenção;
