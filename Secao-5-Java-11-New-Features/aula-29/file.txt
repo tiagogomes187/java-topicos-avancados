@@ -1,0 +1,8 @@
+Novas Características do Java 11
+* Oracle JDK pago! (:;
+* JRE não incluso - sem auto-update;
+* Extinção da pilha de implantação(deploument stack);
+* Mudanças na classe String; -> suporto a tabela UNICODE 10.0;
+* Compilar a aplicação usando o comando Java;
+* Variável local em parâmentros lambda;
+* Introdução readString() e writeString() na classe Files.
